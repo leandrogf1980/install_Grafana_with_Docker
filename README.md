@@ -15,5 +15,4 @@ No terminal do Linux, executar o comando **`sudo dockerd`** para inicializar o D
 4- Iniciar o container do Grafana.  
 **`sudo docker start grafana`**
 
-Obs.: Sempre ao inicializar o Docker, precisa iniciar o container do grafana.  
-**`sudo docker start grafana`**
+Obs.: Sempre ao inicializar o Docker e for trabalhar com o Grafana, precisa iniciar o container do Grafana (passo anterior).
